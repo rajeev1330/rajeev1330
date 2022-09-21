@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me about **java, c#**
+- 💬 Ask me about **JAVA, C#**
 
 - 📫 How to reach me **rajeevyadav1330@gmail.com**
 
