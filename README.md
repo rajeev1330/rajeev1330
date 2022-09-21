@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeev1330&label=Profile%20views&color=0e75b6&style=flat" alt="rajeev1330" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rjeeeydv" target="blank"><img src="https://img.shields.io/twitter/follow/@rjeeeydv?logo=twitter&style=for-the-badge" alt="@rjeeeydv" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rjeeeydv" target="blank"><img src="https://img.shields.io/twitter/follow/@rjeeeydv?logo=twitter&style=for-the-badge" alt="rjeeeydv" /></a> </p>
 
 - 💬 Ask me about **java, c#**
 
